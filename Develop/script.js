@@ -7,6 +7,7 @@ var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numbers = 1234567890;
 var special = "!@#$%^&*()?~=+_-"
 
+var password = "";
 var passwordChoice = "";
 
 function generatePassword() {
