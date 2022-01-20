@@ -1,6 +1,6 @@
 # Javascript-Password-Generator
 
-##Assignment 
+## Assignment 
 To create a password generator using javascript which prompts the user to create a random password by selecting criteria. 
 
 1. First we create variables in order to establish our criteria (i.e. lowercase and uppercase letters, numbers, and special characters). 
